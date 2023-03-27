@@ -1,2 +1,2 @@
-# fitnesswebsite
+# fitness-website
 Final year project
